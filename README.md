@@ -10,10 +10,12 @@ The objective of this project is to practice SQL querying skills from basic to a
 ### Database & Table Setup
 
 - Create Database
+
 CREATE DATABASE spotify_db;
 USE spotify_db;
 
 - create table
+
 CREATE TABLE spotify (
     song_name VARCHAR(255),
     artists VARCHAR(255),
