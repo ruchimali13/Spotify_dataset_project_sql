@@ -7,13 +7,13 @@ The dataset includes song metadata such as song name, artists, release date, pop
 
 The objective of this project is to practice SQL querying skills from basic to advanced level, covering filtering, aggregation, sorting, grouping, and window functions.
 
--- Database & Table Setup
+### Database & Table Setup
 
--- Create Database
+- Create Database
 CREATE DATABASE spotify_db;
 USE spotify_db;
 
--- create table
+- create table
 CREATE TABLE spotify (
     song_name VARCHAR(255),
     artists VARCHAR(255),
@@ -26,7 +26,7 @@ CREATE TABLE spotify (
 
 ## Project Steps
 
-### 1. Data Exploration
+### Data Exploration
 
 Before diving into SQL, it’s important to understand the dataset thoroughly. The dataset contains attributes such as:
 
