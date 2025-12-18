@@ -14,7 +14,7 @@ The objective of this project is to practice SQL querying skills from basic to a
 CREATE DATABASE spotify_db;
 USE spotify_db;
 
-- create table
+- Create table
 
 CREATE TABLE spotify (
     song_name VARCHAR(255),
