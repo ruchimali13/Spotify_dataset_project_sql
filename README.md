@@ -43,12 +43,12 @@ Cover image: URL or path to album cover image.
 ### 23 Practice Question :
 
 **Easy Queries**
-Display song name and artist name
-Find songs with popularity greater than a specific value
-List songs belonging to album type single
-Retrieve songs released after a certain year
-Count total number of songs
-Sort songs by popularity in ascending order
+- Display song name and artist name
+- Find songs with popularity greater than a specific value
+- List songs belonging to album type single
+- Retrieve songs released after a certain year
+- Count total number of songs
+- Sort songs by popularity in ascending order
 
 **Medium Queries**
 - Retrieve the top 10 most popular songs
