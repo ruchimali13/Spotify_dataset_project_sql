@@ -1,4 +1,4 @@
-# Spotify_dataset_project_sql
+# Spotify_project_sql
 
 ## Overview
 
