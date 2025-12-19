@@ -42,7 +42,7 @@ Cover image: URL or path to album cover image.
 
 ### 23 Practice Question :
 
-**Easy Queries**
+**🔰BASIC LEVEL QUERIES**
 - Display song name and artist name
 - Find songs with popularity greater than a specific value
 - List songs belonging to album type single
@@ -50,7 +50,7 @@ Cover image: URL or path to album cover image.
 - Count total number of songs
 - Sort songs by popularity in ascending order
 
-**Medium Queries**
+**⚙️ INTERMEDIATE LEVEL QUERIES**
 - Retrieve the top 10 most popular songs
 - Filter songs released in a specific year
 - Find all songs by a particular artist
@@ -61,7 +61,7 @@ Cover image: URL or path to album cover image.
 - Calculate the average popularity of all songs
 - Find maximum and minimum song duration
 
-**Advanced Queries**
+**🚀 ADVANCED LEVEL QUERIES**
 - Identify the most and least popular songs
 - Find album types with more than 5 songs
 - Determine the longest song for each album type
