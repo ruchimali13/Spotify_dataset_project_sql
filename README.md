@@ -70,7 +70,7 @@ Cover image: URL or path to album cover image.
 - Identify artists with more than 3 released songs
 - Find the top 3 artists based on total number of songs
 
-### SQL Concepts Used
+### >SQL Concepts Used
 
 - SELECT & WHERE
 - ORDER BY
@@ -80,7 +80,7 @@ Cover image: URL or path to album cover image.
 - Window Functions (RANK() OVER)
 - Filtering with LIKE and BETWEEN
 
-### Tools & Technologies
+### >Tools & Technologies
 
 - Database: MySQL
 - Language: SQL
